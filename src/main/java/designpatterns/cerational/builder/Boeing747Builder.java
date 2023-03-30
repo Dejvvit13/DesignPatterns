@@ -1,6 +1,6 @@
 package designpatterns.cerational.builder;
 
-public class Boeing747Builder extends AircraftBuilder {
+class Boeing747Builder extends AircraftBuilder {
 
     Boeing747 boeing747;
 

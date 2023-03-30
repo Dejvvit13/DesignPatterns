@@ -1,6 +1,6 @@
 package designpatterns.cerational.builder;
 
-public abstract class AircraftBuilder {
+abstract class AircraftBuilder {
 
     abstract public IAirCraft getResult();
 

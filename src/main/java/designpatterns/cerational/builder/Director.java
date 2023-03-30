@@ -1,6 +1,6 @@
 package designpatterns.cerational.builder;
 
-public class Director {
+class Director {
 
     AircraftBuilder aircraftBuilder;
 

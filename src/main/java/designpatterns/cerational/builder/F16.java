@@ -1,4 +1,4 @@
 package designpatterns.cerational.builder;
 
-public class F16 {
+class F16 {
 }

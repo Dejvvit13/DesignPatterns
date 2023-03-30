@@ -1,6 +1,6 @@
 package designpatterns.cerational.builder;
 
-public class F16Builder extends AircraftBuilder {
+class F16Builder extends AircraftBuilder {
 
     F16 f16;
 
