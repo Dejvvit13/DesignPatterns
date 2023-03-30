@@ -21,7 +21,7 @@ public class Aircraft {
     }
 
     public void fly() {
-        Aircraft aircraft = makeAircraft(n);
+        Aircraft aircraft = makeAircraft();
         aircraft.taxi();
         System.out.println("Flying");
     }
