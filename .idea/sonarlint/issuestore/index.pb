@@ -96,8 +96,6 @@ o
 ?src/main/java/designpatterns/cerational/builder/F16Builder.java,2\5\253bbb6252e203443b813c0264535baff06fa6a9
 r
 Bsrc/main/java/designpatterns/structural/adapter/HotAirBalloon.java,3\6\3630c61dee21b721b746ad2b4e1b35f01a6d7fb7
-n
->src/main/java/designpatterns/cerational/builder/IAircraft.java,3\7\37f3b2ece981e8f8c0b37fab6df1a379c5f7c2e2
 t
 Dsrc/main/java/designpatterns/structural/composite/IAlliancePart.java,9\d\9d8b7fefe77f55406f4b57d59820b4ab0cd03ee3
 p

@@ -80,8 +80,6 @@ p
 @src/main/java/designpatterns/structural/adapter/MainAdapter.java,d\e\decbc80759187f5d4f66134c6d98d892d0f380c6
 s
 Csrc/main/java/designpatterns/structural/bridge/AbstractCorolla.java,c\c\cc1e4abff59b2dcdef0f8e767cac87b5bf3d919e
-n
->src/main/java/designpatterns/cerational/builder/IAircraft.java,3\7\37f3b2ece981e8f8c0b37fab6df1a379c5f7c2e2
 t
 Dsrc/main/java/designpatterns/structural/composite/IAlliancePart.java,9\d\9d8b7fefe77f55406f4b57d59820b4ab0cd03ee3
 t
