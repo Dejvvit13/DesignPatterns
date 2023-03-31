@@ -5,8 +5,8 @@ class Boeing747Builder extends AircraftBuilder {
     Boeing747 boeing747;
 
     @Override
-    public IAirCraft getResult() {
-        return boeing747();
+    public IAircraft getResult() {
+        return null;
     }
     @Override
     public void buildEngine() {

@@ -6,6 +6,6 @@ class Client {
         Director director = new Director(builder);
         director.construct(false);
 
-        IAirCraft f16 = builder.getResult();
+        IAircraft f16 = builder.getResult();
     }
 }

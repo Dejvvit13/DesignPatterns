@@ -24,7 +24,7 @@ class F16Builder extends AircraftBuilder {
 
     }
     @Override
-    public IAirCraft getResult() {
-        return f16;
+    public IAircraft getResult() {
+        return null;
     }
 }
